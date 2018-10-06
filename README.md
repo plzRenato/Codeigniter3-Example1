@@ -1,4 +1,4 @@
-# Codeigniter3-Example1
+# Newspaper Articles
 "Newspaper articles": Codeigniter 3.1.9 / PHP / HTML / MySQLi 
 
 
