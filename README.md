@@ -13,11 +13,11 @@
   3. Download from https://www.codeigniter.com/download "CodeIgniter 3.x" into your PC, unzip it, copy the only "system" directory to your localhost (usually: /var/www/html ) 
   4. Open in your browser:
 		
-                 http://localhost/index.php/news/create 
+        http://localhost/index.php/news/create 
 	    , to create a newspaper article
   5. Open in your browser: 
 		
-                 http://localhost/index.php/news 
+        http://localhost/index.php/news 
      , to see all the newspaper articles
 
   NOTE: the “news_db” database has to be previously created :
