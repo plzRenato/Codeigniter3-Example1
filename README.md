@@ -15,7 +15,7 @@ User Guide:
                  http://localhost/index.php/news 
          , to see all the newspaper articles
 
- NOTE: the “news_db” database has to be previously created :
+  NOTE: the “news_db” database has to be previously created :
 
             Table:  news
             
