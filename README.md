@@ -14,9 +14,12 @@
   4. Open in your browser:
 		
         http://localhost/index.php/news/create 
-	   , to create a newspaper article
+
+     , to create a newspaper article
   5. Open in your browser: 
-		    http://localhost/index.php/news 
+  
+        http://localhost/index.php/news 
+
      , to see all the newspaper articles
 
   NOTE: the “news_db” database has to be previously created :
