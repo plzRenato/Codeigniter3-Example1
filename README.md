@@ -7,7 +7,6 @@
     
   1. Download to your localhost (usually: /var/www/html )
   2. open the application/config/database.php file with a text editor and set your “news_db” database parameters:
-
                 'username' => 'userxx', 
                 'password' => 'passwxx',
   3. Download from https://www.codeigniter.com/download "CodeIgniter 3.x" into your PC, unzip it, copy the only "system" directory to your localhost (usually: /var/www/html ) 
